@@ -1,0 +1,13 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    background-image: url("../images/bg.jpeg");
+    background-size: cover;
+    background-position-y: -100px;
+}
+#header{
+    background-color: #141922;
+}
